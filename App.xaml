@@ -1,0 +1,8 @@
+﻿<Application x:Class="ChildDailyTaskApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ChildDailyTaskApp">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

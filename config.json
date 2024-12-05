@@ -1,0 +1,28 @@
+{
+  "UseSqlServer": false,
+  "ConnectionStrings": {
+    "SqlQuartzDb": "",
+    "ChildTaskDb": ""
+  },
+  "EmailRecipients": [ "", "", "" ],
+  "EmailSettings": {
+    "From": "",
+    "Password": "",
+    "Port": 0,
+    "Server": ""
+  },
+  "Child": {
+    "FirstName": "",
+    "LastName": ""
+  },
+  "Tasks": [
+    "I have said my prayers.",
+    "I have had my breakfast.",
+    "I have brushed my teeth.",
+    "I have made my bed.",
+    "I have completed all my school work."
+  ],
+  "ExecutionIntervalInMinutes": 60,
+  "PasswordAttemptThreshold": 5
+
+}

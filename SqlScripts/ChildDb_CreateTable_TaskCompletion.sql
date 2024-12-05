@@ -1,0 +1,9 @@
+﻿/* REMOVE COMMENTS AND REPLACE PLACEHOLDER */
+-- USE [YourDb]
+--GO
+
+CREATE TABLE TaskCompletion (
+    Id INT PRIMARY KEY IDENTITY,
+    DateCompleted DATE NOT NULL,
+    IsCompleted BIT NOT NULL
+);
